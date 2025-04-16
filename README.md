@@ -9,7 +9,7 @@
 git clone https://github.com/JasonOstroski/platformworkshop2023.git
 ```
 
-* Install Opentelemetry Dmeo, EasyTrade, and HipsterShop App
+* Install OpenTelemetry Demo, EasyTrade, and HipsterShop App
 
 ```
 kubectl create namespace easytrade
