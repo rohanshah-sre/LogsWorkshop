@@ -1,7 +1,16 @@
 # Here's how to install and run the Dynatrace Logs Workshop!
 
 ## Workshop Format
-* This workshop is intended to be a hands on introduction to Logs on latest Dynatrace platform.
+* This workshop is intended to be an introduction to Logs on latest Dynatrace platform.
+  * It covers the following topics:
+    * Log Management and Analytics
+    * Exploring Logs, Notebooks, and Dashboards App
+    * DQL Training 101, 102, 201, 301
+    * Logs to Metrics
+    * Anomaly Detection
+    * Buckets and Segments
+    * Permissions
+    * OpenPipeline
   * The material can be broken down modularly as required for your use case
   * The target personas are - 1) Dynatrace users, 2) Dynatrace Admins
   * Presentation is broken down into 2 parts to cater to the above 2 personas
