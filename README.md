@@ -21,10 +21,12 @@
   * Tested Specs: 3 Nodes	24 vCPU	96 GB	RAM
 
 ## Setup
-* Spin up the K8s cluster and configure outbound rules for OneAgent traffic
-* Install the OneAgent Operator and connect the K8s integration
+* Spin up the K8s cluster
+* Install the DT Operator by following these steps
+![](https://raw.githubusercontent.com/rohanshah-sre/LogsWorkshop/refs/heads/main/docs/imgs/K8sDTMonitoring.png)
+
+
 * Clone Git Repo
-  
 ```
 git clone https://github.com/rohanshah-sre/LogsWorkshop.git
 ```
