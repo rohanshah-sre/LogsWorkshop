@@ -12,12 +12,8 @@
 
 ## Requirements
 * Dynatrace SaaS Tenant (with latest Dynatrace/Grail)
-  * Dynatrace AppSec RVA Turned On: https://docs.dynatrace.com/docs/shortlink/vulnerability-analytics
 * K8s cluster
   * Tested Specs: 3 Nodes	24 vCPU	96 GB	RAM
-  * You could probably get away with a smaller cluster. I recently removed EasyTravel and the labs only use EasyTrade and HipsterShop, but I have not yet tested this with less resources.
-* Free Tier Slack Account (For Release Evaluation Lab)
-  * Sign up for one with a personal email here: https://slack.com/get-started#/createnew
 
 ## Setup
 * Spin up the K8s cluster and configure outbound rules for OneAgent traffic
