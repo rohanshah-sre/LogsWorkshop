@@ -4,6 +4,6 @@
  * Upload it to your tenant
 
 
- * NOTE: will break hyperlinks in 2 of the notebooks:
+ * NOTE: Upload to your own tenant will break hyperlinks in 2 of the notebooks:
    * Dynatrace User - Workshop Exercises.json
    * Dynatrace User - Workshop Answer Key.json
