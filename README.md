@@ -21,7 +21,7 @@
   * Tested Specs: 3 Nodes	24 vCPU	96 GB	RAM
 
 ## Setup
-* Spin up the K8s cluster
+* Spin up a K8s cluster on a platform of your liking
 * Install the DT Operator by following these steps
 ![](https://raw.githubusercontent.com/rohanshah-sre/LogsWorkshop/refs/heads/main/docs/imgs/K8sDTMonitoring.png)
 
