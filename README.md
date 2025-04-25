@@ -24,6 +24,7 @@
 * Spin up a K8s cluster on a platform of your liking
 * Install the DT Operator to your K8s cluster by following these steps within the new K8s app in Dynatrace SaaS:
 
+![](https://raw.githubusercontent.com/rohanshah-sre/LogsWorkshop/refs/heads/main/docs/imgs/K8sDTMonitoring.png)
 
 * Clone Git Repo
 ```
