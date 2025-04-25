@@ -9,14 +9,14 @@
 * Time: 2.5-4 Hours depending on how many labs you want to cover.
 * Present a 60 minute "Logs Workshop" presentation.
   * PDF copy attached in the repo
-  * PPTX linked here - https://dynatrace-my.sharepoint.com/:p:/p/rohan_shah/Ee56t0nDQRVJlnv0YnxphogB150NiprfgzZiGSKzxXZYVQ?e=o6v6a6
 * Get everyone logged in and run through the Workshop:
   * Dynatrace User - Workshop Exercises
   * Dynatrace User - Workshop Answer Key
 
 
 ## Requirements
-* Dynatrace SaaS Tenant (with latest Dynatrace/Grail)
+* Dynatrace SaaS Tenant (with latest Dynatrace/Grail) 
+  * User needs Admin access to platform to deploy K8s monitoring and generate access tokens
 * K8s cluster
   * Tested Specs: 3 Nodes	24 vCPU	96 GB	RAM
 
