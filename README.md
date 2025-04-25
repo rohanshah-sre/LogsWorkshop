@@ -21,7 +21,7 @@
 * Clone Git Repo
   
 ```
-git clone https://github.com/JasonOstroski/platformworkshop2023.git
+git clone https://github.com/rohanshah-sre/LogsWorkshop.git
 ```
 
 * Install OpenTelemetry Demo, EasyTrade, and HipsterShop App
