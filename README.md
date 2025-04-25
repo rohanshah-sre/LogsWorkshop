@@ -7,8 +7,8 @@
   * Presentation is broken down into 2 parts to cater to the above 2 personas
 * Audience: Existing Dynatrace customers and late stage prospects (Intermediate Level Workshop).
 * Time: 2.5-4 Hours depending on how many labs you want to cover.
-* Present a 60 minute "Logs Workshop" presentation.
-  * ![Link](docs/LogsWorkshop.pdf)
+* Present a 60 minute Logs Workshop presentation.
+  * ![Logs Workshop Presentation](docs/LogsWorkshop.pdf)
 * Get everyone logged in and run through the Workshop:
   * Dynatrace User - Workshop Exercises
   * Dynatrace User - Workshop Answer Key
