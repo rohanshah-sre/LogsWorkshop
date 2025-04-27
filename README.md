@@ -40,7 +40,7 @@
 git clone https://github.com/rohanshah-sre/LogsWorkshop.git
 ```
 
-* Install OpenTelemetry Demo, EasyTrade, and HipsterShop App
+* Install EasyTrade, and HipsterShop App
 
 ```
 kubectl create namespace easytrade
@@ -49,4 +49,7 @@ kubectl apply -f ./easytrade/manifests
 kubectl create namespace hipstershop
 kubectl apply -f ./hipstershop/manifests
 
+* Install OpenTelemetry Demo App
+
+```
 kubectl apply --namespace otel-demo -f https://raw.githubusercontent.com/open-telemetry/opentelemetry-demo/main/kubernetes/opentelemetry-demo.yaml
