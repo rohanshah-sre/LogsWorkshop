@@ -48,8 +48,10 @@ kubectl apply -f ./easytrade/manifests
 
 kubectl create namespace hipstershop
 kubectl apply -f ./hipstershop/manifests
+```
 
 * Install OpenTelemetry Demo App
 
 ```
 kubectl apply --namespace otel-demo -f https://raw.githubusercontent.com/open-telemetry/opentelemetry-demo/main/kubernetes/opentelemetry-demo.yaml
+```
