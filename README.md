@@ -35,6 +35,15 @@
 
 ![](https://raw.githubusercontent.com/rohanshah-sre/LogsWorkshop/refs/heads/main/docs/imgs/AddK8sDTMonitoring.png)
 
+
+* Install OpenTelemetry Demo App
+
+```
+kubectl create --namespace otel-demo -f https://raw.githubusercontent.com/open-telemetry/opentelemetry-demo/main/kubernetes/opentelemetry-demo.yaml
+```
+
+Extra Apps to deploy below:
+
 * Clone Git Repo
 ```
 git clone https://github.com/rohanshah-sre/LogsWorkshop.git
@@ -50,8 +59,3 @@ kubectl create namespace hipstershop
 kubectl apply -f ./hipstershop/manifests
 ```
 
-* Install OpenTelemetry Demo App
-
-```
-kubectl apply --namespace otel-demo -f https://raw.githubusercontent.com/open-telemetry/opentelemetry-demo/main/kubernetes/opentelemetry-demo.yaml
-```
